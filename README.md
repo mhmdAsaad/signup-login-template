@@ -1,4 +1,4 @@
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/mhmdAsaad/signup-login-template/blob/main/assets/gif-demo.gif))
+![](https://github.com/mhmdAsaad/signup-login-template/blob/main/assets/gif-demo.gif)
 # قالب تسجيل الدخول وإنشاء الحساب
 
 يحتوي هذا المستودع على قالب بسيط وأنيق لنماذج تسجيل الدخول وإنشاء الحساب باستخدام HTML و CSS و JavaScript. تم تصميم القالب ليكون قابلاً للتخصيص بسهولة ويمكن دمجه في أي مشروع ويب.
